@@ -4,10 +4,14 @@
 - 🔭 I’m currently working on **Chakma Alphabet and Bangladeshi Dialects Recognition**
 
 - 🌱 I’m currently learning **Advanced image Processing, NLP techniques, Machine Learning, and Deep Learning**
+  
+- 📝 My research articles [https://www.researchgate.net/profile/Prosenjit-Chakraborty-3](https://www.researchgate.net/profile/Prosenjit-Chakraborty-3)
 
 - 📫 How to reach me **prosenjitchakrabortyrmstu@gmail.com**
 
 - 📄 Know about my experiences [https://shorturl.at/rIMV7](https://shorturl.at/rIMV7)
+
+- You can 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
