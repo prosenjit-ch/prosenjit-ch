@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prosenjit Chakraborty</h1>
-<h3 align="center">A passionate researcher and Machine Learning enthusiast from Bangladesh</h3>
+<h3 align="center">A passionate Researcher and Machine Learning enthusiast from Bangladesh</h3>
 
 - 🔭 I’m currently working on **Chakma Alphabet and Bangladeshi Dialects Recognition**
 
