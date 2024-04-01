@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://shorturl.at/rIMV7](https://shorturl.at/rIMV7)
 
-- You can 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
